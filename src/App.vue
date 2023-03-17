@@ -2,7 +2,7 @@
 import { ref } from "vue";
 const imgAttributes = ref({
   src: "/images/logo.svg",
-  alt: "Vueのロゴ",
+  alt: "Vueのロゴ1",
   width: 76,
   height: 74
 });
