@@ -4,7 +4,7 @@ const imgAttributes = ref({
   src: "/images/logo.svg",
   alt: "Vueのロゴ",
   width: 75,
-  height: 75
+  height: 74
 });
 
 
